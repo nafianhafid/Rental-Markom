@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/drawable-v24/ic_baseline_delete_24.xml" value="0.1125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_car.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_customer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_detail_car.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_detail_customer.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_info_customer.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_update.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/activity_update_customer.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_add_customer.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_add_update.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_carlist.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_customerlist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/fragment_info_customer.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Car/app/src/main/res/layout/items_customer.xml" value="0.19293478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
